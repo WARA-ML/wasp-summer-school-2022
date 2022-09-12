@@ -46,7 +46,7 @@ To clone the repository, run this in your shell:
 
 The repository makes use of [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) to include code from other repositories into this one without copying over the code files. To set up the submodules, write the following :
 
-- `git submodule update --init`
+- `git submodule update --init --recursive`
 
 ### Setting up Docker
 
