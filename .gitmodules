@@ -6,3 +6,6 @@
 	path = subsystem2_text-to-speech/Neural-HMM
 	url = https://github.com/NitheshChandher/Neural-HMM.git
 
+[submodule "hifigan"]
+	path = subsystem2_text-to-speech/Neural-HMM/hifigan
+	url = https://github.com/jik876/hifi-gan.git
