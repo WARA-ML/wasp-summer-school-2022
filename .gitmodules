@@ -2,3 +2,7 @@
 	path = subsystem3_gesture-generation/networks/Audio2Gestures
 	url = https://github.com/TeoNikolov/Speech_driven_gesture_generation_with_autoencoder.git
 	branch = GENEA_2022
+[submodule "subsystem2_text-to-speech/Neural-HMM"]
+	path = subsystem2_text-to-speech/Neural-HMM
+	url = https://github.com/NitheshChandher/Neural-HMM.git
+
