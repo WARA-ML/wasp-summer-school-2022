@@ -1,6 +1,9 @@
 [submodule "Neural-HMM"]
 	path = subsystem2_text-to-speech/Neural-HMM
 	url = https://github.com/NitheshChandher/Neural-HMM.git
+[submodule "hifigan"]
+	path = subsystem2_text-to-speech/Neural-HMM/hifigan
+	url = https://github.com/jik876/hifi-gan.git
 [submodule "Audio2Gestures"]
 	path = subsystem3_gesture-generation/networks/Audio2Gestures
 	url = https://github.com/TeoNikolov/Speech_driven_gesture_generation_with_autoencoder.git
