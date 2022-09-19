@@ -2,6 +2,8 @@
 
 ### Disclaimer: The repository will receive some updates during the summer school. However, we aim to have the needed information ready for your assignments. If you run into issues or you have questions, let us know on Slack (Nithesh, Mihail, Teodor)!
 
+![alt text](/docs/project-pipelin.png)
+
 - [Welcome](#welcome)
 - [Installation](#installation)
   * [Prerequisites](#prerequisites)
