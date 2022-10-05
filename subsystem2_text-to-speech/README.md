@@ -15,7 +15,7 @@
 
 
 ## Setup for Finetuning on CMU Arctic dataset
-1. Download and extract the preprocessed[CMU Arctic dataset][cmuarctic_link] in the `data` directory. Also, move the files `train.txt` and `validation.txt` to the `data/filelists` directory.
+1. Download and extract the preprocessed [CMU Arctic dataset][cmuarctic_link] in the `data` directory. Also, move the files `train.txt` and `validation.txt` to the `data/filelists` directory.
 2. Check `src/hparams.py` for hyperparameters and set GPUs.
     1. For multi-GPU training, set GPUs to ```[0, 1 ..]```
     2. For CPU training (not recommended), set GPUs to an empty list ```[]```
